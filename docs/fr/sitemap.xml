@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://contri-dev.github.io/fr/categories/</loc>
+    <loc>https://contri-dev.github.io/LuizContriBlog/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://contri-dev.github.io/categories/"
+                href="https://contri-dev.github.io/LuizContriBlog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://contri-dev.github.io/fr/categories/"
+                href="https://contri-dev.github.io/LuizContriBlog/fr/categories/"
                 />
   </url><url>
-    <loc>https://contri-dev.github.io/fr/</loc>
+    <loc>https://contri-dev.github.io/LuizContriBlog/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://contri-dev.github.io/"
+                href="https://contri-dev.github.io/LuizContriBlog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://contri-dev.github.io/fr/"
+                href="https://contri-dev.github.io/LuizContriBlog/fr/"
                 />
   </url><url>
-    <loc>https://contri-dev.github.io/fr/tags/</loc>
+    <loc>https://contri-dev.github.io/LuizContriBlog/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://contri-dev.github.io/tags/"
+                href="https://contri-dev.github.io/LuizContriBlog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://contri-dev.github.io/fr/tags/"
+                href="https://contri-dev.github.io/LuizContriBlog/fr/tags/"
                 />
   </url>
 </urlset>
