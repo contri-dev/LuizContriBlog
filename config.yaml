@@ -1,4 +1,4 @@
-baseURL: https://examplesite.com
+baseURL: "https://contri-dev.github.io/"
 title: Somrat | Hugo Portfolio Template
 theme: somrat
 paginate: '6'
