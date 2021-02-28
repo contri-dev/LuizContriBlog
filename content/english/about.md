@@ -22,11 +22,11 @@ skill:
     percentage: 98%
   - name: R
     percentage: 85%
-  - name: Database Management
+  - name: SQL
     percentage: 90%
   - name: REST APIs
     percentage: 80%
-  title: SKILL
+  title: SKILLS
 title: KNOW MORE <br> ABOUT ME
 ---
 
