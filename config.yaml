@@ -44,15 +44,15 @@ params:
     preloader: images/preloader.gif
   social:
     - icon: fab fa-facebook-f
-      link: https://www.facebook.com/somratpro
+      link: #
     - icon: fab fa-twitter
-      link: https://twitter.com/somratpro
+      link: #
     - icon: fab fa-instagram
-      link: https://www.instagram.com/somratpro
+      link: #
     - icon: fab fa-github
-      link: https://github.com/somratpro
+      link: #
     - icon: fab fa-linkedin
-      link: https://www.linkedin.com/in/somratpro
+      link: #
 Languages:
   en:
     contentDir: content/english
