@@ -9,36 +9,34 @@ custom_css: ""
 experience:
   enable: true
   experience_list:
-  - company: Fiverr.com
-    content: I work with HTML, CSS, and Javascript to create websites and web applications
-      like Personal, Business, Blog, E-comerches etc.
-    duration: 2016-2018
-    name: Web Developer
-  - company: Fiverr.com
-    content: Graphic design is art with a purpose. I love illustration, so logo desing
-      is my favorite work. But i can do many things with graphics.
-    duration: 2015-2018
-    name: Graphic Designer
-  - company: Polytechnic
-    content: Database management is among the fundamental processes in the software
-      field of computing. I know MS Access very well.
-    duration: 2014-2018
-    name: Database Manager
+  - company: taking.com.br
+    content: ""
+    duration: 2020-2021
+    name: Junior Data Scientist
   title: EXPERIENCE
-image: images/backgrounds/portrait.jpg
+image: images/backgrounds/profile.jpg
 skill:
   enable: true
   skill_list:
-  - name: Web Development
+  - name: Python
     percentage: 98%
-  - name: Graphic Design
+  - name: R
     percentage: 85%
   - name: Database Management
     percentage: 90%
-  - name: Wordpress
-    percentage: 70%
+  - name: REST APIs
+    percentage: 80%
   title: SKILL
 title: KNOW MORE <br> ABOUT ME
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+My name is Luiz, I am passionate about solving problems and I love the flexibility I have for this in the technology area. I believe that both life and a company are summarized in the choices that are made, and the data ensures that the best decision is made. That is why I seek improvement in data science, data analytics and machine learning, with the aim of generating important insights for the company's future. Currently studying computer science at Faculdade Impacta de Tecnologia.
+
+My skill set includes:
+- Statistics Knowledge
+- Python (Numpy, Scipy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, Flask, Streamlit)
+- R (Tidyverse)
+- SQL (MySQL, SQLServer, PostgreSQL)
+- NoSql (MongoDB, HBase)
+- Power BI
+- Big Data (Hadoop Ecosystem) 

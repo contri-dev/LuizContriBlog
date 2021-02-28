@@ -1,5 +1,5 @@
 baseURL: "https://contri-dev.github.io/LuizContriBlog/"
-title: Somrat | Hugo Portfolio Template
+title: Luiz Contri | Data Scientist
 theme: somrat
 paginate: '6'
 summaryLength: '10'
@@ -69,7 +69,7 @@ Languages:
           pre: '#'
           url: about
           weight: 2
-        - name: Service
+        - name: Abilities
           pre: '#'
           url: service
           weight: 3

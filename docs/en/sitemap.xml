@@ -42,6 +42,19 @@
     <loc>https://contri-dev.github.io/LuizContriBlog/categories/logo/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://contri-dev.github.io/LuizContriBlog/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://contri-dev.github.io/LuizContriBlog/"
+                />
+  </url><url>
     <loc>https://contri-dev.github.io/LuizContriBlog/blog/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
@@ -71,19 +84,6 @@
   </url><url>
     <loc>https://contri-dev.github.io/LuizContriBlog/categories/sketch/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://contri-dev.github.io/LuizContriBlog/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://contri-dev.github.io/LuizContriBlog/"
-                />
   </url><url>
     <loc>https://contri-dev.github.io/LuizContriBlog/tags/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
@@ -118,6 +118,8 @@
   </url><url>
     <loc>https://contri-dev.github.io/LuizContriBlog/funfacts/</loc>
   </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/service/</loc>
+  </url><url>
     <loc>https://contri-dev.github.io/LuizContriBlog/tags/blog/</loc>
   </url><url>
     <loc>https://contri-dev.github.io/LuizContriBlog/banner/</loc>
@@ -126,13 +128,11 @@
   </url><url>
     <loc>https://contri-dev.github.io/LuizContriBlog/call-to-action/</loc>
   </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/contact/</loc>
-  </url><url>
     <loc>https://contri-dev.github.io/LuizContriBlog/tags/sebby/</loc>
   </url><url>
     <loc>https://contri-dev.github.io/LuizContriBlog/blog/blog-1/</loc>
   </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/service/</loc>
+    <loc>https://contri-dev.github.io/LuizContriBlog/contact/</loc>
   </url><url>
     <loc>https://contri-dev.github.io/LuizContriBlog/testimonial/</loc>
   </url>

@@ -275,9 +275,10 @@
 <!-- End Services -->
 
 <!-- call to action -->
+<!--
 {{ with .GetPage "call-to-action" }}
 <style>{{.Params.custom_css | safeCSS}}</style>
-<section id="cta" class="need-service overlay section-sm wow fadeInUp {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} data-wow-duration="1.5s" style="background-image: url('{{ .Params.bg_image | absURL }}');">
+<section id="cta" class="need-service overlay section-sm wow fadeInUp {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id ="call-to-action" data-wow-duration="1.5s" style="background-image: url('{{ .Params.bg_image | absURL }}');">
   <div class="container position-relative z-index-9">
     <h1>{{ .Title | markdownify }}</h1>
     {{ with .Content }}<div class="text-white content">{{ . | markdownify }}</div> {{ end }}
@@ -289,6 +290,7 @@
   </div>
 </section>
 {{ end }}
+-->
 <!-- end call to action -->
 
 <!-- Start Portfolio -->
@@ -378,6 +380,7 @@
 <!-- End Testimonials -->
 
 <!-- funfacts -->
+<!--
 {{ with .GetPage "funfacts"}}
 <style>{{.Params.custom_css | safeCSS}}</style>
 <section class="wow fadeInUp section-sm {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} data-wow-duration="1.5s">
@@ -400,6 +403,7 @@
   </div>
 </section>
 {{ end }}
+-->
 <!-- end funfacts -->
 
 <!-- Start Contact -->
