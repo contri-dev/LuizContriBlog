@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/tags/access/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/tags/art/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>https://contri-dev.github.io/LuizContriBlog/categories/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <lastmod>2021-01-03T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -21,29 +15,11 @@
                 href="https://contri-dev.github.io/LuizContriBlog/categories/"
                 />
   </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/tags/database/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/categories/database/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/tags/design/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/categories/design/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/tags/development/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/categories/development/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/categories/logo/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://contri-dev.github.io/LuizContriBlog/categories/logistic-regression/</loc>
+    <lastmod>2021-01-03T12:00:00+03:00</lastmod>
   </url><url>
     <loc>https://contri-dev.github.io/LuizContriBlog/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <lastmod>2021-01-03T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -55,34 +31,34 @@
                 href="https://contri-dev.github.io/LuizContriBlog/"
                 />
   </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/categories/nlp/</loc>
+    <lastmod>2021-01-03T12:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/portfolio/</loc>
+    <lastmod>2021-01-03T12:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/portfolio/spamdetector/</loc>
+    <lastmod>2021-01-03T12:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/tags/access/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/tags/art/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/tags/database/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/tags/design/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/tags/development/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
     <loc>https://contri-dev.github.io/LuizContriBlog/blog/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/portfolio/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/portfolio/project-1/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/portfolio/project-2/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/portfolio/project-3/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/portfolio/project-4/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/portfolio/project-5/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/portfolio/project-6/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>https://contri-dev.github.io/LuizContriBlog/tags/sketch/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://contri-dev.github.io/LuizContriBlog/categories/sketch/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://contri-dev.github.io/LuizContriBlog/tags/</loc>

@@ -226,7 +226,6 @@ body {
   background: rgba(50, 50, 50, .6);
   z-index: 9;
 }
-
 .slider-button {
   position: absolute;
   top: 49%;
@@ -282,7 +281,7 @@ body {
   height: 100%;
   color: white;
   font-size: 30px;
-  font-family: 'Rubik', sans-serif !important;
+  font-family: 'Rubik', sans-serif;
   font-weight: 300;
   z-index: 10;
 }
@@ -319,6 +318,7 @@ body {
   padding: 5px 18px;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
+  border-radius:10px;
 }
 
 .head-holder .hireMe:hover {
@@ -879,6 +879,7 @@ input:checked+label span:last-child {
   display: inline-block;
   border: 2px solid #4d4d4d;
   padding: 7px 10px;
+  border-radius:10px;
 }
 
 .download-cv:hover,
@@ -916,7 +917,7 @@ input:checked+label span:last-child {
   font-family: 'Font Awesome 5 Free';
   right: 8px;
   font-weight: 900;
-  top: 6px;
+  top: 7px;
   font-size: 16px;
 }
 
