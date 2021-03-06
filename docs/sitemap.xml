@@ -1,16 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://contri-dev.github.io/LuizContriBlog/en/sitemap.xml</loc>
-    
-      <lastmod>2021-01-03T12:00:00+03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://contri-dev.github.io/LuizContriBlog/fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/categories/</loc>
+    <lastmod>2021-03-03T12:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/</loc>
+    <lastmod>2021-03-03T12:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/portfolio/test/</loc>
+    <lastmod>2021-03-03T12:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/portfolio/</loc>
+    <lastmod>2021-03-03T12:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/categories/test/</loc>
+    <lastmod>2021-03-03T12:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/funfacts/</loc>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/service/</loc>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/banner/</loc>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/about/</loc>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/call-to-action/</loc>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/blog/test/</loc>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/contact/</loc>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/tags/</loc>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/tags/test/</loc>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/testimonial/</loc>
+  </url><url>
+    <loc>https://contri-dev.github.io/LuizContriBlog/blog/</loc>
+  </url>
+</urlset>

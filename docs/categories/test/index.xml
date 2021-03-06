@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PORTFOLIO on Luiz Contri | Data Scientist</title>
-    <link>https://contri-dev.github.io/LuizContriBlog/portfolio/</link>
-    <description>Recent content in PORTFOLIO on Luiz Contri | Data Scientist</description>
+    <title>Test on Luiz Contri | Data Scientist</title>
+    <link>https://contri-dev.github.io/LuizContriBlog/categories/test/</link>
+    <description>Recent content in Test on Luiz Contri | Data Scientist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Wed, 03 Mar 2021 12:00:00 +0300</lastBuildDate><atom:link href="https://contri-dev.github.io/LuizContriBlog/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Mar 2021 12:00:00 +0300</lastBuildDate><atom:link href="https://contri-dev.github.io/LuizContriBlog/categories/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nothing Yet</title>
       <link>https://contri-dev.github.io/LuizContriBlog/portfolio/test/</link>
