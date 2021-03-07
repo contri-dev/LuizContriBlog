@@ -5,7 +5,7 @@ paginate: '6'
 summaryLength: '10'
 disableLanguages: []
 googleAnalytics: ''
-disqusShortname: ''
+disqusShortname: 'luizcontri'
 publishDir: "docs/"
 outputs:
   home: HTML
