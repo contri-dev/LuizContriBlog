@@ -1,6 +1,6 @@
 ---
 button:
-  enable: true
+  enable: false
   label: DOWNLOAD MY CV
   link: '#'
 custom_attributes: ""
@@ -30,9 +30,13 @@ skill:
 title: KNOW MORE <br> ABOUT ME
 ---
 
-My name is Luiz, I am passionate about solving problems and I love the flexibility I have for this in the technology area. I believe that both life and a company are summarized in the choices that are made, and the data ensures that the best decision is made. That is why I seek improvement in data science, data analytics and machine learning, with the aim of generating important insights for the company's future. Currently studying computer science at Faculdade Impacta de Tecnologia.
+My name is Luiz, I am passionate about solving problems and I love the flexibility that I have for doing that in the technology area.
 
-My skill set includes:
+I believe that both life and a company can be represented by the choices that are made, and working with data ensures that the best decision will be taken. That is the reason why I seek improvement in data science, data analytics and machine learning, with the aim of generating important insights for the company's future.
+
+I am currently studying computer science at Faculdade Impacta de Tecnologia.
+
+My skill set:
 - Statistics Knowledge
 - Python (Numpy, Scipy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, Flask, Streamlit)
 - R (Tidyverse)

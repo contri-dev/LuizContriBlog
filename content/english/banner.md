@@ -3,7 +3,7 @@ bg_image: images/backgrounds/banner.jpg
 button:
   enable: true
   label: CONTACT ME
-  link: '#contact'
+  link: #contact
 custom_attributes: ""
 custom_class: ""
 custom_css: ""
