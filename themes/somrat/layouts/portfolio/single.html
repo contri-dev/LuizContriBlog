@@ -10,7 +10,14 @@
           <div class="about-me-text mb-4">
             <h1>{{.Title | markdownify}}</h1>
           </div>
-          <div class="content">{{.Content}}</div>
+          <div class="content">{{.Content}}
+            <!-- comments -->
+            {{ if .Site.DisqusShortname }}
+            <div class="mt-5">
+              {{ template "_internal/disqus.html" . }}
+            </div>
+            {{ end }}
+          </div>
         </div>
       </div>
       <div class="col-lg-4">
@@ -43,19 +50,9 @@
         </div>
       </div>
     </div>
-    <!-- comments -->
-          {{ if .Site.DisqusShortname }}
-          <div class="mt-5">
-            {{ template "_internal/disqus.html" . }}
-          </div>
-          {{ end }}
-        </div>
-      </div>
-      <div class="col-lg-4">
-        <div class="bg-white sticky-top wow fadeInUp" data-wow-duration="1.5s" style="top: 80px;">
-
   </div>
 </section>
 {{ end }}
+
 
 
